@@ -1,0 +1,8 @@
+CommonRoad-CXX-Port (velox)
+Copyright (c) 2025 Randev Ranjit
+
+Portions of this software (the vehicle models in lib/models/ and the parameter
+files in parameters/vehicle/ and parameters/tire/) are derived from or copied
+from the CommonRoad vehicle models, Copyright 2020 Technical University of
+Munich, Professorship of Cyber-Physical Systems, distributed under the same
+BSD 3-Clause licence (see PYTHON/LICENSE.txt).

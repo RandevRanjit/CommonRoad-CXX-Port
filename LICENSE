@@ -1,12 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2025 Randev Ranjit
-
-Portions of this software (the vehicle models in lib/models/ and the parameter
-files in parameters/vehicle/ and parameters/tire/) are derived from or copied
-from the CommonRoad vehicle models, Copyright 2020 Technical University of
-Munich, Professorship of Cyber-Physical Systems, distributed under the same
-BSD 3-Clause licence (see PYTHON/LICENSE.txt).
+Copyright (c) 2025, Randev Ranjit
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -32,3 +26,4 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
